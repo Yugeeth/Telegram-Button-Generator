@@ -6,3 +6,22 @@
 # introduction
 This Tool will help you to create Shortcodes for Buttons Easily
 it is very easy and useful!!
+# contribution
+First you need to install [git](https://git-scm.com/download/win)
+## contribution guide
+- first Fork this repo
+
+- second clone the repository
+```bash
+https://github.com/Yugeeth/Telegram-Button-Generator.git
+```
+- THIRD find an issue
+
+ Mentioned issue correctly & mentioned with photos
+ find bugs,virus,erros or any other issue
+ - fourth make a PR
+# Developers
+[Yugeeth Rathnayke](https://github.com/Yugeeth/)
+# pull requests
+
+- 1  - [Yugeeth](https://github.com/Yugeeth/)
