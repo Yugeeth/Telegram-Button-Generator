@@ -24,8 +24,8 @@ https://github.com/Yugeeth/Telegram-Button-Generator.git
 [Yugeeth Rathnayke](https://github.com/Yugeeth/)
 # pull requests
 
-- 1  - [Yugeeth](https://github.com/Yugeeth/)
-- 2 - [Yugeeth](https://github.com/Yugeeth/)
+- 1  - [Yugeeth](https://github.com/Yugeeth/Telegram-Button-Generator/pull/1) - Update [README.MD](https://github.com/Yugeeth/Telegram-Button-Generator/blob/Yugeeth-patch-1/README.md)
+- 2 - [Yugeeth](https://github.com/Yugeeth/Telegram-Button-Generator/pull/2) - Update [style.css](https://github.com/Yugeeth/Telegram-Button-Generator/blob/Yugeeth-patch-2/style.css)
 # Technologies that used
 - javascript
 - Bootstrap
