@@ -30,3 +30,7 @@ https://github.com/Yugeeth/Telegram-Button-Generator.git
 - Bootstrap
 - css
 - HTML
+# License
+LICENSE under  : 
+
+GPL-3.0 License
